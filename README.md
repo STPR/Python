@@ -3,10 +3,10 @@
 For fun, how I've used the "Transfert Learning" capability of PyTorch to resolve the challenge from
 https://github.com/EvilRobotOverlord/huedump
 
-Or, from this:<br />
+Or, from this gif picture:<br />
 ![gif picture](https://user-images.githubusercontent.com/23280582/41038562-3f9e6eec-69b4-11e8-9a6e-2a73a8e5f223.gif)
 
-To this:<br />
+To this text:<br />
 EFBBBF2F2F20467574757265<br />
 2076657273696F6E73206F66<br />
 204879706572206D61792061<br />
