@@ -1,6 +1,6 @@
 # transfer-learning-pytorch
 
-For fun, how I've used the "Transfert Learning" capability of PyTorch to resolve the challenge at
+For fun, how I've used the "Transfer Learning" capability of PyTorch to resolve the challenge at
 https://github.com/EvilRobotOverlord/huedump
 
 Or, from this gif picture:<br />
