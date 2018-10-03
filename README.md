@@ -4,7 +4,7 @@ For fun, how I've used the "Transfert Learning" capability of PyTorch to resolve
 https://github.com/EvilRobotOverlord/huedump
 
 Or, from this gif picture:<br />
-![gif picture](https://user-images.githubusercontent.com/23280582/41038562-3f9e6eec-69b4-11e8-9a6e-2a73a8e5f223.gif)
+![gif picture](https://github.com/STPR/transfer-learning-pytorch/blob/master/original.gif)
 
 To this text:<br />
 ``EFBBBF2F2F20467574757265``<br />
