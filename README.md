@@ -3,7 +3,7 @@
 For fun, how I've used the "Transfer Learning" capability of PyTorch to resolve the challenge at:<br />
 https://github.com/EvilRobotOverlord/huedump
 
-Or, from this gif picture:<br />
+Or, from this gif picture (37 frames):<br />
 ![gif picture](https://github.com/STPR/transfer-learning-pytorch/blob/master/original.gif)
 
 To this text:<br />
