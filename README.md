@@ -1,6 +1,6 @@
 # transfer-learning-pytorch
 
-For fun, how I've used the "Transfert Learning" capability of PyTorch to resolve the challenge from
+For fun, how I've used the "Transfert Learning" capability of PyTorch to resolve the challenge at
 https://github.com/EvilRobotOverlord/huedump
 
 Or, from this gif picture:<br />
@@ -416,4 +416,3 @@ EFBBBF2F2F20467574757265<br />
 3A2027636D642B616C742B6F<br />
 272C0D0A20207D2C0D0A7D3B<br />
 0D0A<br />
-
